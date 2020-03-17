@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Geosty.App">
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <!--Text Colors-->
+            <Color x:Key="BlackTextColor">#222222</Color>
+            <Color x:Key="WhiteTextColor">#FCFCFC</Color>
+            <Color x:Key="GreyTextColor">#636867</Color>
+            <!--Background Colors-->
+            <Color x:Key="BlackBgColor">#222222</Color>
+            <Color x:Key="WhiteBgColor">#FCFCFC</Color>
+            <Color x:Key="ColdStartColor">#141E30</Color>
+            <Color x:Key="ColdEndColor">#243B55</Color>
+            <Color x:Key="NormalStartColor">#356C80</Color>
+            <Color x:Key="NormalEndColor">#39BBE7</Color>
+            <Color x:Key="WarmStartColor">#FD746C</Color>
+            <Color x:Key="WarmEndColor">#FF9068</Color>
+            <!--Font Styles-->
+            <OnPlatform x:TypeArguments="x:String" x:Key="NunitoRegularFont">
+                <OnPlatform.Android>NunitoSans_Regular.ttf#NunitoSans_Regular</OnPlatform.Android>
+                <OnPlatform.iOS>NunitoSans_Regular</OnPlatform.iOS>
+            </OnPlatform>
+            <OnPlatform x:TypeArguments="x:String" x:Key="NunitoSemiBoldFont">
+                <OnPlatform.Android>NunitoSans_SemiBold.ttf#NunitoSans_SemiBold</OnPlatform.Android>
+                <OnPlatform.iOS>NunitoSans_SemiBold</OnPlatform.iOS>
+            </OnPlatform>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

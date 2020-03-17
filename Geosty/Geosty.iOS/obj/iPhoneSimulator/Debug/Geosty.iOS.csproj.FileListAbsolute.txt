@@ -1,0 +1,253 @@
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.iOS.exe
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.iOS.pdb
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.dll
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.pdb
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Contents.json.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon1024.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon180.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon167.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon152.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon120.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon87.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon80.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon76.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon60.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon58.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon40.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon29.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Icon20.png.ResolveUTIs.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/cta_button.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/footer.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/rain_icon.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/thunder_icon.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/cloudy_icon.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/today_bar.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/tomorrow_bar.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/bg_image_rain.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/bg_image_opacity.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/menu_icon.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/rain_icon_big.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w01d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w01n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w02d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w02n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w03d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w03n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w04d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w04n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w09d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w09n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w10d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w10n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w11d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w11n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w13d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w13n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w50n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w50d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm09d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm09n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm10d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm10n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm04d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm04n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm01d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm01n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm02d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm02n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm03d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm03n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm50d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_50n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm13d.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/w_sm13n.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/cta_button_2.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/daily_bar.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/humidity_icon.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/splash_screen.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/wind_icon.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/app_icon.png
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/optimized/
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.csproj.CopyComplete
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.exe
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.pdb
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Newtonsoft.Json.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Essentials.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Essentials.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Core.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Core.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.iOS.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.iOS.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Xaml.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Xaml.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.iOS.resources.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.PancakeView.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Geosty.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Geosty.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Geosty.iOS.exe.mdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Geosty.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Entitlements.plist.NoneOutput.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Info.plist.NoneOutput.stamp
+C:/Users/Lucas/source/repos/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.csprojAssemblyReference.cache
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.iOS.exe
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.iOS.pdb
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Geosty.pdb
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/update_icon_highlighted.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/unhighlighted_bar.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/highlighted_bar.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/splash_screen_bg.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/splash_screen_icon.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/cta_button.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/footer.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/menu_icon.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w01d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w01n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w02d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w02n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w03d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w03n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w04d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w04n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w09d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w09n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w10d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w10n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w11d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w11n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w13d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w13n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w50n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w50d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm09d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm09n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm10d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm10n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm04d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm04n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm01d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm01n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm02d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm02n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm03d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm03n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm50d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_50n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm13d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm13n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/cta_button_2.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/humidity_icon.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/wind_icon.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/app_icon.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm11d.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm11n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/w_sm50n.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/update_icon.png
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.csproj.CopyComplete
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.exe
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.pdb
+/Users/Lucas/Desktop/Geosty/Geosty/Geosty.iOS/obj/iPhoneSimulator/Debug/Geosty.iOS.csprojAssemblyReference.cache

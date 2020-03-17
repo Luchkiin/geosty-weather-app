@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Geosty.Views.CurrentWeatherPage"
+             x:Name="CurrentPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <!--<ContentPage.ToolbarItems>
+        <ToolbarItem Name="SubMenuItem1" Order="Secondary" Text="Refresh" Priority="1" Clicked="SubMenuItem1_Clicked" />
+        <ToolbarItem Name="SubMenuItem2" Order="Secondary" Text="About" Priority="2" Clicked="SubMenuItem2_Clicked" />
+        <ToolbarItem Name="SubMenuItem2" Order="Secondary" Text="Settings" Priority="3" Clicked="SubMenuItem3_Clicked" />
+    </ContentPage.ToolbarItems>-->
+
+    <pancake:PancakeView BackgroundGradientStartColor="#356C80"
+                             BackgroundGradientEndColor="#39BBE7"
+                             BackgroundGradientAngle="270">
+
+        <Grid x:Name="main_grid_container" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0" Padding="{OnPlatform Android='0,40,0,0', iOS='0,45,0,0'}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <!--<BoxView Grid.RowSpan="2" BackgroundColor="{StaticResource BlackBgColor}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+            <Image x:Name="bg_image" Aspect="AspectFill" Grid.RowSpan="2" Source="gradient_bg_normal" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+        -->
+            <!--<Image x:Name="bg_image_opacity" Aspect="AspectFill" Grid.RowSpan="2" Source="bg_image_opacity.png" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />-->
+            <Grid x:Name="top_grid_contianer" RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="0" Orientation="Horizontal" HorizontalOptions="End" VerticalOptions="FillAndExpand" Padding="0, 0, 25, 0">
+                    <ImageButton x:Name="update_btn" Source="update_icon.png" WidthRequest="30" HeightRequest="30" HorizontalOptions="End" VerticalOptions="Center"
+                                 BackgroundColor="Transparent" Aspect="Fill" Clicked="UpdateBtnClicked">
+                        <VisualStateManager.VisualStateGroups>
+                            <VisualStateGroup x:Name="CommonStates">
+                                <VisualState x:Name="Normal">
+                                    <VisualState.Setters>
+                                        <Setter Property="Scale" Value="1" />
+                                        <Setter Property="Source" Value="update_icon.png" />
+                                    </VisualState.Setters>
+                                </VisualState>
+
+                                <VisualState x:Name="Pressed">
+                                    <VisualState.Setters>
+                                        <Setter Property="Scale" Value="1" />
+                                        <Setter Property="Source" Value="update_icon_highlighted.png" />
+                                    </VisualState.Setters>
+                                </VisualState>
+                            </VisualStateGroup>
+                        </VisualStateManager.VisualStateGroups>
+                    </ImageButton>
+                </StackLayout>
+                <Grid x:Name="weather_info_top_container" Grid.Row="1" Padding="25, 0, 25, 0">
+                    <StackLayout x:Name="weather_info_top_wrapper" Spacing="0">
+                        <StackLayout Orientation="Horizontal" Spacing="0" HorizontalOptions="Start" VerticalOptions="FillAndExpand">
+                            <StackLayout VerticalOptions="Start">
+                                <Label x:Name="weather_title" Text="Raining" TextColor="{StaticResource WhiteTextColor}" FontFamily="{DynamicResource NunitoSemiBoldFont}" FontSize="46" HorizontalOptions="Start" />
+                            </StackLayout>
+                        </StackLayout>
+                        <StackLayout x:Name="weather_temp_container" Orientation="Horizontal" Spacing="0" HorizontalOptions="StartAndExpand" VerticalOptions="FillAndExpand">  
+                                <StackLayout Orientation="Vertical" Spacing="0" HorizontalOptions="Start" VerticalOptions="Start" Padding="0, -36, 0, 0"> 
+                                <Label x:Name="weather_temp" Text="5" TextColor="{StaticResource WhiteTextColor}" FontFamily="{DynamicResource NunitoRegularFont}" FontSize="136"
+                                       HorizontalOptions="Start" VerticalOptions="Start" />
+                                </StackLayout>
+                                <StackLayout Orientation="Vertical" Spacing="0" HorizontalOptions="Start" VerticalOptions="Start">
+                                    <StackLayout VerticalOptions="Start" Padding="0, 0, 0, 0">
+                                    <Label x:Name="weather_temp_sign" Text="°C" TextColor="{StaticResource WhiteTextColor}" FontFamily="{DynamicResource NunitoSemiBoldFont}"
+                                           FontSize="36" HorizontalOptions="Start" VerticalOptions="Start" />
+                                    </StackLayout>
+                                    <StackLayout VerticalOptions="Start" HorizontalOptions="StartAndExpand" Padding="40, 5, 0, 0">
+                                        <Image x:Name="weather_icon" Source="w10d.png" WidthRequest="80" HeightRequest="69" />
+                                    </StackLayout>
+                                </StackLayout>
+                        </StackLayout>
+                    </StackLayout>
+                </Grid>
+                <Grid x:Name="weather_conditions_container" ColumnSpacing="25" HorizontalOptions="FillAndExpand"
+                      VerticalOptions="StartAndExpand" Grid.Row="2" Padding="25, 12.5, 25, 0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <pancake:PancakeView CornerRadius="10" BackgroundColor="#FCFCFC" Padding="12.5" Grid.Column="0">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                <StackLayout Spacing="5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                    <Label Text="Humidity" TextColor="{StaticResource GreyTextColor}" FontFamily="{DynamicResource NunitoRegularFont}" Opacity="0.7" FontSize="14" HorizontalOptions="Start" VerticalOptions="Center" />
+                                    <Label x:Name="humidity_Txt" Text="67%" FontFamily="{DynamicResource NunitoSemiBoldFont}" TextColor="{StaticResource GreyTextColor}" FontSize="14" HorizontalOptions="Start" VerticalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                            <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand">
+                                <Image Source="humidity_icon.png" HeightRequest="25" HorizontalOptions="Center" VerticalOptions="Center" />
+                            </StackLayout>
+                        </StackLayout>
+                    </pancake:PancakeView>
+
+                    <pancake:PancakeView CornerRadius="10" BackgroundColor="#FCFCFC" Padding="12.5" Grid.Column="1">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                <StackLayout Spacing="5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                    <Label Text="Wind" TextColor="{StaticResource GreyTextColor}" FontFamily="{DynamicResource NunitoRegularFont}" Opacity="0.7" FontSize="14" HorizontalOptions="Start" VerticalOptions="Center" />
+                                    <Label x:Name="wind_Txt" Text="4.3 m/s" FontFamily="{DynamicResource NunitoSemiBoldFont}" TextColor="{StaticResource GreyTextColor}" FontSize="14" HorizontalOptions="Start" VerticalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                            <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Padding="0, 4, 0 , 0">
+                                <Image Source="wind_icon.png" HeightRequest="22.5" HorizontalOptions="Center" VerticalOptions="Center" />
+                            </StackLayout>
+                        </StackLayout>
+                    </pancake:PancakeView>
+                </Grid>
+            </Grid>
+
+            <Grid x:Name="footer_grid_container" Grid.Row="1" HeightRequest="325" Padding="0, 25, 0, 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Image Source="footer.png" Aspect="Fill" />
+
+                <Grid x:Name="footer_inner_wrapper" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0" Padding="25, 0, 25, 0">
+                    <Grid.RowDefinitions>
+                        <!--<RowDefinition Height="*" />-->
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <!--<Grid x:Name="footer_cta_container" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ColumnSpacing="0" Grid.Row="0" Padding="0, -35, 0, 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Column="0" Grid.Row="0">
+                            <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand">
+                                <ImageButton x:Name="cta_img_btn" Source="cta_button_2.png" BackgroundColor="Transparent" WidthRequest="75" HeightRequest="75" Aspect="Fill" />
+                            </StackLayout>
+                        </Grid>
+                    </Grid>-->
+
+                    <Grid x:Name="footer_label_container" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ColumnSpacing="0" Grid.Row="1" Padding="0, 0, 0, 5" HeightRequest="85">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Column="0" Grid.Row="0">
+                            <StackLayout HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand">
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                    <Label x:Name="city_title" FontSize="30" Text="New York," FontFamily="{DynamicResource NunitoSemiBoldFont}" TextColor="{StaticResource GreyTextColor}" />
+                                    <Label x:Name="country_title" FontSize="30" FontFamily="{DynamicResource NunitoSemiBoldFont}" Text="US" TextColor="{StaticResource GreyTextColor}" />
+                                </StackLayout>
+                                <Label x:Name="current_date" FontSize="16" Text="Sat, 7 Mar 12:02" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" Opacity="0.7"/>
+                            </StackLayout>
+                        </Grid>
+                    </Grid>
+
+                    <Grid x:Name="footer_weather_container" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ColumnSpacing="25" Grid.Row="2" Padding="0, 0, 0, 12.5" HeightRequest="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <pancake:PancakeView
+                                CornerRadius="10" Padding="0"
+                                BackgroundGradientStartColor="#356C80"
+                                BackgroundGradientEndColor="#39BBE7"
+                                BackgroundGradientAngle="270">
+                                <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HeightRequest="90">
+                                    <Label x:Name="current_time_text_c1" Text="Now" FontFamily="{DynamicResource NunitoSemiBoldFont}" FontSize="16" TextColor="{StaticResource WhiteTextColor}" HorizontalOptions="Center" />
+                                    <Image x:Name="current_weather_icon_c1" Source="w10d.png" WidthRequest="32.5" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center"  VerticalOptions="EndAndExpand" Spacing="2">
+                                        <Label x:Name="current_temp_text_c1" Text="5" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource WhiteTextColor}" FontSize="12" HorizontalOptions="Center" />
+                                        <Label x:Name="degrees_celcius_text_c1" Text="°C" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource WhiteTextColor}" FontSize="8" HorizontalOptions="Center" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </pancake:PancakeView>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HeightRequest="90">
+                                <Label x:Name="current_time_text_c2" Text="13" FontFamily="{DynamicResource NunitoSemiBoldFont}" FontSize="16" TextColor="{StaticResource GreyTextColor}" HorizontalOptions="Center" />
+                                <Image x:Name="current_weather_icon_c2" Source="w_sm10d.png" WidthRequest="35" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="EndAndExpand" Spacing="2">
+                                    <Label x:Name="current_temp_text_c2" Text="4" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="12" HorizontalOptions="Center" />
+                                    <Label x:Name="degrees_celcius_text_c2" Text="°C" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="8" HorizontalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Grid>
+                        <Grid Grid.Column="2" Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HeightRequest="90">
+                                <Label x:Name="current_time_text_c3" Text="14" FontFamily="{DynamicResource NunitoSemiBoldFont}" FontSize="16" TextColor="{StaticResource GreyTextColor}" HorizontalOptions="Center" />
+                                <Image x:Name="current_weather_icon_c3" Source="w_sm11d" WidthRequest="35" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="EndAndExpand" Spacing="2">
+                                    <Label x:Name="current_temp_text_c3" Text="1" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="12" HorizontalOptions="Center" />
+                                    <Label x:Name="degrees_celcius_text_c3" Text="°C" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="8" HorizontalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Grid>
+                        <Grid Grid.Column="3" Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HeightRequest="90">
+                                <Label x:Name="current_time_text_c4" Text="15" FontFamily="{DynamicResource NunitoSemiBoldFont}" FontSize="16" TextColor="{StaticResource GreyTextColor}" HorizontalOptions="Center" />
+                                <Image x:Name="current_weather_icon_c4" Source="w_sm10d" WidthRequest="35" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="EndAndExpand" Spacing="2">
+                                    <Label x:Name="current_temp_text_c4" Text="5" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="12" HorizontalOptions="Center" />
+                                    <Label x:Name="degrees_celcius_text_c4" Text="°C" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="8" HorizontalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Grid>
+                        <Grid Grid.Column="4" Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HeightRequest="90">
+                                <Label x:Name="current_time_text_c5" Text="15" FontFamily="{DynamicResource NunitoSemiBoldFont}" FontSize="16" TextColor="{StaticResource GreyTextColor}" HorizontalOptions="Center" />
+                                <Image x:Name="current_weather_icon_c5" Source="w_sm10d" WidthRequest="35" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="EndAndExpand" Spacing="2">
+                                    <Label x:Name="current_temp_text_c5" Text="5" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="12" HorizontalOptions="Center" Padding="0, -0.5, 0, 0"/>
+                                    <Label x:Name="degrees_celcius_text_c5" Text="°C" FontFamily="{DynamicResource NunitoRegularFont}" TextColor="{StaticResource GreyTextColor}" FontSize="8" HorizontalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Grid>
+                    </Grid>
+
+                    <Grid x:Name="footer_tab_container" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ColumnSpacing="25" Grid.Row="3" Padding="0, 0, 0, 25">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" x:Name="today_tab">
+                            <StackLayout>
+                                <Label x:Name="today_tab_title" Text="Hourly" TextColor="{StaticResource BlackTextColor}" FontFamily="{DynamicResource NunitoSemiBoldFont}" 
+                                       FontSize="12" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                                <Image x:Name="today_bar_btn" Source="highlighted_bar.png" HeightRequest="2" Aspect="AspectFill"/>
+                            </StackLayout>
+                        </Grid>
+                        <Grid Grid.Column="1" x:Name="tomorrow_tab">
+                            <StackLayout>
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="DailyBarTapped"/>
+                                </StackLayout.GestureRecognizers>
+                                <Label x:Name="daily_tab_title" Text="Daily" TextColor="{StaticResource GreyTextColor}" FontFamily="{DynamicResource NunitoRegularFont}" Opacity="0.5" 
+                                       FontSize="12" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                                <Image x:Name="daily_bar_btn" Source="unhighlighted_bar.png" Aspect="AspectFill" HeightRequest="2" />
+                            </StackLayout>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </pancake:PancakeView>
+</ContentPage>

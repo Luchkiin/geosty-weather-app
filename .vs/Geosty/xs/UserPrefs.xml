@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{93210283-D6D7-4C19-986E-6CF58D2CEEBA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Geosty/Geosty/Views/CurrentWeatherPage.xaml.cs">
+    <Files>
+      <File FileName="Geosty/Geosty/Views/DailyWeatherPage.xaml" Line="74" Column="123" IsPinned="True" />
+      <File FileName="Geosty/Geosty/Views/CurrentWeatherPage.xaml" Line="42" Column="19" />
+      <File FileName="Geosty/Geosty/Views/CurrentWeatherPage.xaml.cs" Line="26" Column="30" />
+      <File FileName="Geosty/Geosty/Views/DailyWeatherPage.xaml.cs" Line="27" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Geosty" expanded="True">
+            <Node name="Geosty" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="CurrentWeatherPage.xaml" expanded="True">
+                  <Node name="CurrentWeatherPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Geosty.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.839A7C9B-D77A-4EF2-84AC-758F2AA791E2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Geosty.Android PreferredExecutionTarget="Android.ce01182194075b3905" />
+</Properties>

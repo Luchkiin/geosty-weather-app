@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F8C8F6D5-1EA2-45A6-91AF-FC87CFEE895C}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Geosty.iOS</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>Geosty.iOS</AssemblyName>
+    <MtouchEnableSGenConc>true</MtouchEnableSGenConc>
+    <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchArch>x86_64</MtouchArch>
+    <MtouchLink>None</MtouchLink>
+    <MtouchDebug>true</MtouchDebug>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchLink>None</MtouchLink>
+    <MtouchArch>x86_64</MtouchArch>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchArch>ARM64</MtouchArch>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchLink>None</MtouchLink>
+    <MtouchInterpreter>-all</MtouchInterpreter>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchArch>ARM64</MtouchArch>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <None Include="Entitlements.plist" />
+    <None Include="Info.plist" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <BundleResource Include="Resources\NunitoSans-SemiBold.ttf" />
+    <BundleResource Include="Resources\NunitoSans-ExtraBold.ttf" />
+    <BundleResource Include="Resources\NunitoSans-Italic.ttf" />
+    <BundleResource Include="Resources\NunitoSans-Regular.ttf" />
+    <BundleResource Include="Resources\update_icon_highlighted.png" />
+    <BundleResource Include="Resources\unhighlighted_bar.png" />
+    <BundleResource Include="Resources\highlighted_bar.png" />
+    <BundleResource Include="Resources\splash_screen_bg.png" />
+    <BundleResource Include="Resources\splash_screen_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-3.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-4.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-5.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-6.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-7.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-8.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-9.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-10.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-11.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-12.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo 2-13.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Logo-3.png" />
+    <InterfaceDefinition Include="Resources\GeostyLaunchScreen.storyboard" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.iOS" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.396" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.1" />
+    <PackageReference Include="Xamarin.Forms.PancakeView">
+      <Version>1.3.7</Version>
+    </PackageReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\Geosty\Geosty.csproj">
+      <Project>{433A1EDE-01C7-40EE-8ADE-6AE23CD24915}</Project>
+      <Name>Geosty</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cta_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\footer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\menu_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w01d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w01n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w02d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w02n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w03d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w03n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w04d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w04n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w09d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w09n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w10d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w10n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w11d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w11n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w13d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w13n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w50n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w50d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm09d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm09n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm10d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm10n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm04d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm04n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm01d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm01n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm02d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm02n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm03d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm03n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm50d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_50n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm13d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm13n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cta_button_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\humidity_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wind_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\app_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm11d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm11n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\w_sm50n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\update_icon.png" />
+  </ItemGroup>
+</Project>
