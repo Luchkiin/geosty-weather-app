@@ -16,7 +16,7 @@ The application is built with C#, XAML and makes use of the Xamarin Forms framew
 
 <p>
 The application offers current, hourly, and daily weahter forecast based on the end-user's current location. 
-Furthermore, the weather forecast information is being retreived with the usage of the free weather API from openweahtermap.
+Furthermore, the weather forecast information is being retreived with the usage of the free weather API from OpenWeahterMap.
 </p>
 
 ## Built With
