@@ -10,13 +10,7 @@
 
 <img src="https://github.com/Luchkiin/geosty-weather-app/blob/master/img/geosty-project-overview.png" alt="Logo" width="auto" height="auto">
 <p>
-This project acts as a weather application which works for both iOS and Android devices. 
-The application is built with C#, XAML and makes use of the Xamarin Forms framework in Microsoft's VS which enables cross-platform programming. 
-</p>
-
-<p>
-The application offers current, hourly, and daily weather forecast based on the end-user's current location. 
-Furthermore, the weather forecast information is being retrieved with the usage of the free weather API from OpenWeahterMap.
+Geosty is a weather application for iOS and Android devices. The application is built with C#, XAML and Xamarin Forms framework in Microsoft's VS which enables cross-platform programming. The application offers current, hourly, and daily weather forecast based on the end-user's current location alongside with humidity and wind details. Furthermore, the weather forecast information is being retrieved from the free weather API from OpenWeatherMap.
 </p>
 
 ## Built With
