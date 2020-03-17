@@ -11,7 +11,7 @@
 <img src="https://github.com/Luchkiin/geosty-weather-app/blob/master/img/geosty-project-overview.png" alt="Logo" width="auto" height="auto">
 <p>
 This project acts as a weather application which works for both iOS and Android devices. 
-The application is built with C#, XAML and, makes use of the Xamarin Forms framework in Microsoft's VS which enables cross-plattform programming. 
+The application is built with C#, XAML and makes use of the Xamarin Forms framework in Microsoft's VS which enables cross-plattform programming. 
 </p>
 
 <p>
