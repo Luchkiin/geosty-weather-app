@@ -20,7 +20,6 @@ Geosty is a weather application for iOS and Android devices. The application is 
 
 ## APIs Used
 * <a href="https://openweathermap.org/current" target="_blank" class="project-paragraph-links">OpenWeatherMap</a>
-* <a href="https://www.pexels.com/api/" target="_blank" class="project-paragraph-links">Pexels</a>
 
 ## Contact
 * :email: <a href="mailto:lucas.rosendahl95@gmail.com">lucas.rosendahl95@gmail.com</a>
