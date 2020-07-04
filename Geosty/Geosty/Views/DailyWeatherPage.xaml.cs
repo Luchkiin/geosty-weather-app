@@ -175,7 +175,7 @@ namespace Geosty.Views
                     {
                         var date = DateTime.Parse(list.dt_txt);
 
-                        if (date > DateTime.Now && date.Hour == 0 && date.Minute == 0 && date.Second == 0)
+                        if (date > DateTime.Now && date.Hour == 12 && date.Minute == 0 && date.Second == 0)
                             allList.Add(list);
                     }
 
