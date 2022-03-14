@@ -1,17 +1,14 @@
 <br />
-<p align="center">
-  <a href="#">
-    <img src="https://github.com/Luchkiin/geosty-weather-app/blob/master/img/geosty_icon.png" alt="Geosty - Logo" width="150" height="150">
-  </a>
-  <h1 align="center">Geosty</h1>
-</p>
+<h1 align="left">Geosty</h1>
+<p align="left">Mobile application / Weather / Concept</p>
+
+<img src="https://github.com/Luchkiin/portfolio-v3/blob/master/images/works/geosty/geosty_image_big.png" alt="Geosty - Project Overview" width="auto" height="auto">
 
 ## About the Project
 
-<img src="https://github.com/Luchkiin/portfolio-v2/blob/master/images/og-images/geosty.png" alt="Geosty - Project Overview" width="auto" height="auto">
-<p>
-Geosty is a weather application for iOS and Android devices. The application is built with C#, XAML and Xamarin Forms framework in Microsoft's VS which enables cross-platform programming. The application offers current, hourly, and daily weather forecast based on the end-user's current location alongside with humidity and wind details. Furthermore, the weather forecast information is being retrieved from the free weather API from OpenWeatherMap.
-</p>
+Geosty is a weather application built for iOS and Android devices. The application offers current, hourly, and daily weather forecast based on the end-users current location alongside humidity and wind details.
+
+Geosty was created as a hobby project and makes use of a fresh blue linear gradient color palette alongside subtle hints of grey and white colors.
 
 ## Built With
 * C#
@@ -22,5 +19,5 @@ Geosty is a weather application for iOS and Android devices. The application is 
 * <a href="https://openweathermap.org/current" target="_blank" class="project-paragraph-links">OpenWeatherMap</a>
 
 ## Contact
-* :email: <a href="mailto:lr@lucasrosendahl.com">lr@lucasrosendahl.com</a>
-* :globe_with_meridians: <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
+* <a href="mailto:lr@lucasrosendahl.com">lr@lucasrosendahl.com</a>
+* <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
