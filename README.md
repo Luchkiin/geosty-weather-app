@@ -21,3 +21,4 @@ Geosty was created as a hobby project and makes use of a fresh blue linear gradi
 ## Contact
 * <a href="mailto:lr@lucasrosendahl.com">lr@lucasrosendahl.com</a>
 * <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
+<br />
